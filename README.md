@@ -32,7 +32,8 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/AvadhootGunjal/HMS
+git clone 
+https://github.com/AvadhootGunjal/Society-Management-System
 
 Setup Database:
 
